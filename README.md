@@ -14,6 +14,8 @@ An Arduino system built with an ultrasonic sensor, LED etc. to check for safe di
 ## Sample video of project
 https://user-images.githubusercontent.com/80902426/226980050-97b54412-c776-4e13-a02b-860f0befd8a4.mp4
 
+## Please find photos of project in photo folder
+
 
 
 
