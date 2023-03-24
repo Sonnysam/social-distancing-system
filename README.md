@@ -1,7 +1,9 @@
 ## Social Distancing System
 An Arduino system built with an ultrasonic sensor, LED etc. to check for safe distancing in hospital queues 
 
-## Tools used
+## ℹ️ Please find photos of project in photo folder 
+
+## Tools used 🚀
 - Arduino Uno
 - Ultrasonic sensor
 - Bread board
@@ -14,7 +16,10 @@ An Arduino system built with an ultrasonic sensor, LED etc. to check for safe di
 ## Sample video of project
 https://user-images.githubusercontent.com/80902426/226980050-97b54412-c776-4e13-a02b-860f0befd8a4.mp4
 
-## Please find photos of project in photo folder
+## Project Documentation 📗
+https://docs.google.com/document/d/1vHzT8OgAqp2uNu18_PEeCzsMv4UisP4P2sCwwPBpKI4/edit?usp=sharing
+
+
 
 
 
